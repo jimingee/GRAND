@@ -3,4 +3,9 @@
 *.pyc
 Experiment_1/__pycache__
 Experiment_1/wandb
-
+Experiment_2/__pycache__
+Experiment_2/wandb
+Experiment_3/__pycache__
+Experiment_3/wandb
+Experiment_4/__pycache__
+Experiment_4/wandb
