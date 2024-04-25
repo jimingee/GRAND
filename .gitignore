@@ -1,5 +1,0 @@
-## Ignore File ##
-
-*.pyc
-grand1/__pycache__
-grand1/wandb
