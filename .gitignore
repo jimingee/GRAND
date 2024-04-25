@@ -1,4 +1,6 @@
 ## Ignore Files ##
 
 *.pyc
+Experiment_1/__pycache__
+Experiment_1/wandb
 
